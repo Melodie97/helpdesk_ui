@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/support",
+      "destination": "https://helpdesk-731243741879.europe-west1.run.app/support"
+    }
+  ]
+}
